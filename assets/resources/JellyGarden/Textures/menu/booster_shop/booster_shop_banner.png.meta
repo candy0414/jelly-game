@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "4662fb95-5d77-4e5b-a699-cf5d0195ab32",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "booster_shop_banner": {
+      "ver": "1.0.3",
+      "uuid": "7ec50adb-053e-4149-8750-8138a0436327",
+      "rawTextureUuid": "4662fb95-5d77-4e5b-a699-cf5d0195ab32",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 653,
+      "height": 882,
+      "rawWidth": 653,
+      "rawHeight": 882,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

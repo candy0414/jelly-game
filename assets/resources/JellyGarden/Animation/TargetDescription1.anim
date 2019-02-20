@@ -1,0 +1,38 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "TargetDescription1",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.75,
+  "sample": 60,
+  "speed": 0.5,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            729,
+            -493
+          ]
+        },
+        {
+          "frame": 0.75,
+          "value": [
+            123,
+            -493
+          ]
+        },
+        {
+          "frame": 1.75,
+          "value": [
+            729,
+            -493
+          ]
+        }
+      ]
+    }
+  },
+  "events": []
+}

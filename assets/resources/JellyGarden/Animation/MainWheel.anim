@@ -1,0 +1,25 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "MainWheel",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 18.02,
+  "sample": 100,
+  "speed": 3,
+  "wrapMode": "2",
+  "curveData": {
+    "props": {
+      "angle": [
+        {
+          "frame": 0,
+          "value": -108.00000000000001
+        },
+        {
+          "frame": 18.02,
+          "value": -18
+        }
+      ]
+    }
+  },
+  "events": []
+}
